@@ -20,28 +20,7 @@ export default {
   data() {
     return {
       book,
-      josh: [
-        {
-          StudentID: 740447,
-          Name: 'Ascher, Brandon F',
-          Grade: '09',
-          MyAttendance: '60.00',
-          AverageAttendanceformyGrade: '97.5',
-          AverageAttendanceforaLincolnStudent: '96.2',
-        },
-        {
-          StudentID: 814371,
-          Name: 'Beavers, Logan W',
-          Grade: '09',
-          MyAttendance: '90.0',
-          AverageAttendanceformyGrade: '97.5',
-          AverageAttendanceforaLincolnStudent: '96.2',
-        },
-      ],
     };
-  },
-  mounted() {
-    console.log(book);
   },
 };
 </script>
