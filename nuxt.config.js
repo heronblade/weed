@@ -1,6 +1,9 @@
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
+  router: {
+    base: '/weed/',
+  },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
@@ -14,10 +17,10 @@ export default {
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: ['@/assets/scss/main.scss'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [],
+  plugins: ['~/plugins/vue-bar.js'],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
@@ -43,4 +46,4 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
-}
+};
