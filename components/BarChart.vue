@@ -21,9 +21,9 @@ export default {
             )}`,
             data: [
               0,
-              `${this.data.MyAttendance}`,
-              `${this.data.AverageAttendanceformyGrade}`,
-              `${this.data.AverageAttendanceforaLincolnStudent}`,
+              `${parseInt(this.data.MyAttendance, 10)}`,
+              `${parseInt(this.data.AverageAttendanceformyGrade, 10)}`,
+              `${parseInt(this.data.AverageAttendanceforaLincolnStudent, 10)}`,
             ],
           },
         ],
