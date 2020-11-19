@@ -1,0 +1,42 @@
+[
+  {
+    "StudentID": 740447,
+    "Name": "Ascher, Brandon F",
+    "Grade": "09",
+    "MyAttendance": "60.00%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 814371,
+    "Name": "Beavers, Logan W",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 707381,
+    "Name": "Birdsall, Jake S",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 673617,
+    "Name": "Zhou, Ailin",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 767125,
+    "Name": "Zhou, Maggie",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  }
+]

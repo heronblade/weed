@@ -1,0 +1,2434 @@
+[
+  {
+    "StudentID": 740447,
+    "Name": "Ascher, Brandon F",
+    "Grade": "09",
+    "MyAttendance": "60.00%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 814371,
+    "Name": "Beavers, Logan W",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 707381,
+    "Name": "Birdsall, Jake S",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 786986,
+    "Name": "Borcea, Daria A",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 651606,
+    "Name": "Brasket, Drew D",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 716684,
+    "Name": "Burns, Stella W",
+    "Grade": "09",
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 749908,
+    "Name": "Chi, Jonathan X",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 769523,
+    "Name": "Coleman, Malia C",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 781264,
+    "Name": "Davidson, Nathan L",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 800204,
+    "Name": "Diaz, Aidan R",
+    "Grade": "09",
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 712100,
+    "Name": "Frost, Dash R",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 729955,
+    "Name": "Gao, William J",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 763838,
+    "Name": "Hall, Tayla",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 796200,
+    "Name": "Hampton, Julian C",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 755577,
+    "Name": "Haynes, Courtney",
+    "Grade": "09",
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 718182,
+    "Name": "Jahangiri, Malek K",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 718947,
+    "Name": "James, Matthew F",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 816682,
+    "Name": "Johnson, Cameron C",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 712941,
+    "Name": "Kellogg, Cole T",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 772320,
+    "Name": "Kim, Brodie",
+    "Grade": "09",
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 816724,
+    "Name": "Larson, Brooklyn K",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 707932,
+    "Name": "Lindsay, Maddie M",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 781022,
+    "Name": "Lopez, Jose",
+    "Grade": "09",
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 799673,
+    "Name": "Lui, Malachi G",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 737102,
+    "Name": "Marotta, Casey S",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 800149,
+    "Name": "Mercado, Angelo J",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 711916,
+    "Name": "Muresan, Isabelle A",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 711927,
+    "Name": "Myers, Zara J",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 805283,
+    "Name": "O'Connell, Charlie P",
+    "Grade": "09",
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 710688,
+    "Name": "Quarles, Emmy N",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 705826,
+    "Name": "Rayzman, Dana",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 763157,
+    "Name": "Rice, Austin R",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 800919,
+    "Name": "Rivera, Alekxy",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 707598,
+    "Name": "Rosenfield, Peri J",
+    "Grade": "09",
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 707610,
+    "Name": "Russell, Ava G",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 711655,
+    "Name": "Sandy, Jasmine O",
+    "Grade": "09",
+    "MyAttendance": "40.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 711642,
+    "Name": "Sandy, Jillian S",
+    "Grade": "09",
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 808916,
+    "Name": "Sneed, Minna D",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 815816,
+    "Name": "Tapia, Javier A",
+    "Grade": "09",
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 764844,
+    "Name": "Thomsen-Marr, Eva J",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 804327,
+    "Name": "Togni, Emmett T",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 708153,
+    "Name": "Urquhart, Douglas J",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 707655,
+    "Name": "Vassilev, Alex S",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 712935,
+    "Name": "Vildozola-Aguirre, Samantha C",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 718915,
+    "Name": "Wager, Simon C",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 815087,
+    "Name": "White, Mason J",
+    "Grade": "09",
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 708156,
+    "Name": "Williams, Julia M",
+    "Grade": "09",
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 675773,
+    "Name": "Alto, Maddox M",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 737248,
+    "Name": "Andoh, Zack P",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 713451,
+    "Name": "Beduya, Symonn D",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 815132,
+    "Name": "Bernhard Parro, Parro L",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 677018,
+    "Name": "Blaga, Sophie C",
+    "Grade": 10,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 736285,
+    "Name": "Bloss, Brady A",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 786101,
+    "Name": "Burruss, Alex K",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 663509,
+    "Name": "Campbell, Shawnessy M",
+    "Grade": 10,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 803503,
+    "Name": "Capriotti, Giacomo G",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 758511,
+    "Name": "Christy-Willingham, Remy J",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 735947,
+    "Name": "Crawford, Cassidy C",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 687941,
+    "Name": "Denton, Luke H",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 784612,
+    "Name": "Dinihanian, Sonja B",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 714912,
+    "Name": "Edlund-Farsad, Niku",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 809755,
+    "Name": "Espinoza, Xavier R",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 685545,
+    "Name": "Farinola, Dominic A",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 676040,
+    "Name": "Farnell, Charlee L",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 783939,
+    "Name": "Flamm, Jonah",
+    "Grade": 10,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 677198,
+    "Name": "Foster, Rubie E",
+    "Grade": 10,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 809695,
+    "Name": "Gerlach, Braden J",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 754692,
+    "Name": "Griffin, Liz M",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 815819,
+    "Name": "Harari, Elior L",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 812464,
+    "Name": "Harris, Lillyan A",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 815817,
+    "Name": "Henry, John M",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 730674,
+    "Name": "Herman, Colby C",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 809937,
+    "Name": "Hernandez Lopez, Heidy",
+    "Grade": 10,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 670823,
+    "Name": "Hernandez, Neeka R",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 804183,
+    "Name": "Karlin, Zoe M",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 676264,
+    "Name": "Lafleur, Wil I",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 808431,
+    "Name": "Masoumi, Hossein",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 767722,
+    "Name": "McIlnay, Owen L",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 679123,
+    "Name": "Mead, Jacob L",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 677814,
+    "Name": "Minns, Will R",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 676684,
+    "Name": "Mock, Aiden M",
+    "Grade": 10,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 671914,
+    "Name": "Nyhus, Grant W",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 762601,
+    "Name": "Pighin, Sivanya S",
+    "Grade": 10,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 710751,
+    "Name": "Prall, Nicole A",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 677258,
+    "Name": "Riis, Kate H",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 682659,
+    "Name": "Rue, Beck N",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 723473,
+    "Name": "Schmokel, Colton T",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 785040,
+    "Name": "Schoewe, Gabriel C",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 677879,
+    "Name": "Schutrop, Connor M",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 676267,
+    "Name": "Shea-han, Ronan O",
+    "Grade": 10,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 787068,
+    "Name": "Smith, Harry S",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 786594,
+    "Name": "Smith, Lexi K",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 785730,
+    "Name": "Steinberg, Oren D",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 667107,
+    "Name": "Swanson, Kilian G",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 682718,
+    "Name": "Valdez, Mazie C",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 784512,
+    "Name": "Visconsi, Lucia C",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 808148,
+    "Name": "Voss, Jake W",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 786605,
+    "Name": "Ward, Cairo",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 713534,
+    "Name": "Webb, Ainsley M",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 804782,
+    "Name": "Weesner, Jasmine R",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 713566,
+    "Name": "Wehling, Nigel A",
+    "Grade": 10,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 679125,
+    "Name": "Yium, Abby K",
+    "Grade": 10,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 677920,
+    "Name": "Zuckerman, Jesse A",
+    "Grade": 10,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "97.4%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 640106,
+    "Name": "Augustine, Jake T",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 759251,
+    "Name": "Baca, Caleb",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 653775,
+    "Name": "Baker, Pearl P",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 749312,
+    "Name": "Block, Samantha S",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 646832,
+    "Name": "Boatman, Emerson S",
+    "Grade": 11,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 772054,
+    "Name": "Brechin, Harper E",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641304,
+    "Name": "Burke, Rowan R",
+    "Grade": 11,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 684289,
+    "Name": "Bushnell, Preston C",
+    "Grade": 11,
+    "MyAttendance": "",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 643365,
+    "Name": "Caldwell, Alli G",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 651655,
+    "Name": "Campbell, Nicholas S",
+    "Grade": 11,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641748,
+    "Name": "Castaneda, Olivia L",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 760239,
+    "Name": "Cosey, Preston M",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 796066,
+    "Name": "Daley, Tavis L",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 646339,
+    "Name": "D'Alvarez, Carlos I",
+    "Grade": 11,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641418,
+    "Name": "Davenport, Ava W",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 650910,
+    "Name": "David, Madeline L",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 769247,
+    "Name": "Dinkov, Alex N",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 649723,
+    "Name": "Dirkx, Jeremy M",
+    "Grade": 11,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 652423,
+    "Name": "DiSalvo, Sandro Francesco",
+    "Grade": 11,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641481,
+    "Name": "Francis, Rafe R",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 650118,
+    "Name": "Frost, Austin J",
+    "Grade": 11,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 816566,
+    "Name": "Galvez, Pedro A",
+    "Grade": 11,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 643995,
+    "Name": "Ganz, Antony A",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 651612,
+    "Name": "Geminiani, Dylan T",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641444,
+    "Name": "Gough, Connor O",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 670475,
+    "Name": "Graham, Kellen M",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 716078,
+    "Name": "Guivernau, Rafael J",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 807670,
+    "Name": "Gurnick, Max M",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 650913,
+    "Name": "Gurule, Jude W",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 815707,
+    "Name": "Hanning, Kevin C",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 759215,
+    "Name": "Hariri, Karine A",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641577,
+    "Name": "Heald, Sawyer J",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 644042,
+    "Name": "Hernandez-Avalos, Ivan",
+    "Grade": 11,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 738852,
+    "Name": "Higgins, Carlotta B",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 662821,
+    "Name": "Hooks, A'Mya M",
+    "Grade": 11,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 710987,
+    "Name": "Imdieke, Matthew J",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 797187,
+    "Name": "Javurek, Phina A",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 651766,
+    "Name": "Jones, Jackson S",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641602,
+    "Name": "Jones, Parker H",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 776487,
+    "Name": "Kline, Lily",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 800693,
+    "Name": "Kowalski, Sarai N",
+    "Grade": 11,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 646495,
+    "Name": "Lagunas-Morales, Sandra",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 804157,
+    "Name": "Lamberton, Clare A",
+    "Grade": 11,
+    "MyAttendance": "40.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 685548,
+    "Name": "Lindsay, Soren A",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 735419,
+    "Name": "Liu, William T",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641928,
+    "Name": "Loy, Anna E",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 804328,
+    "Name": "Makofsky, Tyler J",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 643350,
+    "Name": "Mansberger, Alli A",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 768698,
+    "Name": "Matthews, Evan J",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 768697,
+    "Name": "Matthews, Jared L",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 811882,
+    "Name": "Mayumbu, Steve M",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 786061,
+    "Name": "McClure, Heather L",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 777302,
+    "Name": "McMahon, Kylee J",
+    "Grade": 11,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 643483,
+    "Name": "Moser, Natalie E",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 660323,
+    "Name": "Moss, Lucas J",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641653,
+    "Name": "Muller, Aneel S",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 649125,
+    "Name": "Nelson, Leo M",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 744197,
+    "Name": "Newton, Grey G",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 653369,
+    "Name": "Oase, Olivia A",
+    "Grade": 11,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 651149,
+    "Name": "Pallister, Thomas R",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 643434,
+    "Name": "Perrin, Henri R",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 646437,
+    "Name": "Phillips, Brooke I",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 644532,
+    "Name": "Pinkstaff, Jake B",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 643436,
+    "Name": "Rodriguez, Ethan F",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 660983,
+    "Name": "Romero, Hugo A",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 776108,
+    "Name": "Rouffy, Cordy L",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 803279,
+    "Name": "Salinas Maldonado, Alexander",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 639258,
+    "Name": "Salinsky, Ike C",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 642602,
+    "Name": "Samiee, Zoe A",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 759347,
+    "Name": "Sands, Lexi N",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 656181,
+    "Name": "Smiley, Owen C",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 641711,
+    "Name": "Stuart, Wren L",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 767436,
+    "Name": "Van Oast, Solveig H",
+    "Grade": 11,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 681145,
+    "Name": "Wald, Jullian K",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 681143,
+    "Name": "Wald, Tyler K",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 750254,
+    "Name": "Warfel, Evie G",
+    "Grade": 11,
+    "MyAttendance": "",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 640252,
+    "Name": "Weesner, Shail C",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 808260,
+    "Name": "Weidler, Jonas N",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 797449,
+    "Name": "Wheeler, Ryley B",
+    "Grade": 11,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 749569,
+    "Name": "Willis, Aidan R",
+    "Grade": 11,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "96.2%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 369576,
+    "Name": "Aaby, Emily N",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 605834,
+    "Name": "Abrams, Jason A",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 777748,
+    "Name": "Agudelo, Adriana M",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 776166,
+    "Name": "Althouse, Mateo C",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 603666,
+    "Name": "Ambrose, Mario C",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 608608,
+    "Name": "Amnuayphol, Clay A",
+    "Grade": 12,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 781759,
+    "Name": "Andersen, Eliza C",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 740446,
+    "Name": "Ascher, Jacob R",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 608629,
+    "Name": "Babbie, Henry R",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 810268,
+    "Name": "Baldwin, Sabrina K",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 687703,
+    "Name": "Bartel, Emma G",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 668894,
+    "Name": "Bhingarde, Atharv S",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 590629,
+    "Name": "Billo, Jay T",
+    "Grade": 12,
+    "MyAttendance": "40.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 766986,
+    "Name": "Bingham, Mason",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 590786,
+    "Name": "Blair, Dylan T",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 784156,
+    "Name": "Bowman, Zoe S",
+    "Grade": 12,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 563887,
+    "Name": "Brandenburger, Gavin D",
+    "Grade": 12,
+    "MyAttendance": "40.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 596381,
+    "Name": "Bravo, Bella M",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 772111,
+    "Name": "Bush, Mila S",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 604679,
+    "Name": "Cawyer, Danni A",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 783132,
+    "Name": "Chan, Malia P",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 784901,
+    "Name": "Christopher, Sailor R",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 596553,
+    "Name": "Coletti, Chloe E",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 734406,
+    "Name": "Colville, Porter J",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 600581,
+    "Name": "Copp, Justin J",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 602028,
+    "Name": "Daniel, Shea D",
+    "Grade": 12,
+    "MyAttendance": "40.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 590973,
+    "Name": "Davis, Ryan A",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 517356,
+    "Name": "Diaz-Espinosa, Estefani",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 615148,
+    "Name": "Dickson, Caleb E",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 751774,
+    "Name": "Dominic, Sofia M",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 589750,
+    "Name": "Doneker, Kai A",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 638153,
+    "Name": "Dooley, Layne K",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 596912,
+    "Name": "Dorner, Sasha G",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 574559,
+    "Name": "Downer, Jamison A",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 657760,
+    "Name": "Ebel, Rhapsody G",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 714729,
+    "Name": "Edlund-Farsad, Cyrus",
+    "Grade": 12,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 638341,
+    "Name": "Elmansouri, Yusuf A",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 685544,
+    "Name": "Farinola, Marco L",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 597148,
+    "Name": "Farnell, Rocky R",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 593294,
+    "Name": "Fisher, Kendra P",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 643994,
+    "Name": "Friedrich, Madison M",
+    "Grade": 12,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 806841,
+    "Name": "Gilpin-Moreno, Pilar A",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 756502,
+    "Name": "Griswold, Brooke",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 763847,
+    "Name": "Hall, Jade",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 763846,
+    "Name": "Hall, Kierra",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 555979,
+    "Name": "Hedinger, Hayden H",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 763015,
+    "Name": "Hernandez, Marcelino",
+    "Grade": 12,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 610058,
+    "Name": "Hilbourne, Sam J",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 578196,
+    "Name": "Howell, Amelia M",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 598268,
+    "Name": "Imes, Kyle E",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 786601,
+    "Name": "Jacobs, Sean A",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 610067,
+    "Name": "Johnson, Quinn M",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 780408,
+    "Name": "Kadhim, Mustafa",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 778400,
+    "Name": "Karnes, Chloe",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 781622,
+    "Name": "Karnes, Jace",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 609771,
+    "Name": "Keefer, Sophie O",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 593301,
+    "Name": "Kent, Aidan C",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 600672,
+    "Name": "Klash, Ava M",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 610131,
+    "Name": "Kopetz, Carson D",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 808725,
+    "Name": "Kowalski, Riley L",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 618454,
+    "Name": "Lagunas-Morales, Brian",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 604037,
+    "Name": "Lamb, John B",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 732259,
+    "Name": "Lauersdorf, Aidan E",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 732248,
+    "Name": "Liang, Dennis B",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 599590,
+    "Name": "Liese, Maxwell A",
+    "Grade": 12,
+    "MyAttendance": "30.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 604129,
+    "Name": "Lincoln, Elsa J",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 620391,
+    "Name": "Lopez, Omar O",
+    "Grade": 12,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 621635,
+    "Name": "Lowe, Ikasha A",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 616057,
+    "Name": "Mandekor, Minga A",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 760577,
+    "Name": "Marson, Gus J",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 618092,
+    "Name": "Maycumber, Jolie G",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 603730,
+    "Name": "McClure, Jack J",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 595509,
+    "Name": "McElroy, Claire M",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 588591,
+    "Name": "McKillop, Cristina L",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 809135,
+    "Name": "Meherete, Matthew N",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 617074,
+    "Name": "Miller, Isabel J",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 598049,
+    "Name": "Mills, Chloe R",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 600674,
+    "Name": "Mock, Joey E",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 651380,
+    "Name": "Moon, Caleb H",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 760440,
+    "Name": "Morgan-Olsen, Lily",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 780823,
+    "Name": "Morse, Matthias",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 610135,
+    "Name": "Mullen, Neala E",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 816004,
+    "Name": "Murphy, Colin P",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 767879,
+    "Name": "O'Hanlon, Eve K",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 804828,
+    "Name": "Paulat, Anna C",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 598370,
+    "Name": "Peterson, Philip B",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 655317,
+    "Name": "Pressler, Cole G",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 700462,
+    "Name": "Quintero, Bella M",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 598728,
+    "Name": "Reverman, Amelia I",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 610139,
+    "Name": "Richards, Claire H",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 554229,
+    "Name": "Rivers, Zhykaire X",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 617035,
+    "Name": "Rogers, Sam G",
+    "Grade": 12,
+    "MyAttendance": "50.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 593798,
+    "Name": "Roy, Brennan R",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 785371,
+    "Name": "Rubin, Bella L",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 768298,
+    "Name": "Rufai, Elias O",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 645802,
+    "Name": "Ryce, Adam G",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 616411,
+    "Name": "Ryu, Calvin C",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 763040,
+    "Name": "Schafer, Izzy R",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 754573,
+    "Name": "Sgroi, Caroline V",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 777779,
+    "Name": "Shah, Gabriel A",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 763359,
+    "Name": "Simon, Elaia F",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 710560,
+    "Name": "Spiro, Alec H",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 804357,
+    "Name": "Stephens, Katerina G",
+    "Grade": 12,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 705234,
+    "Name": "Strop, Albert M",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 599019,
+    "Name": "Tees, Tyge F",
+    "Grade": 12,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 760473,
+    "Name": "Thein, Sandra Y",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 764854,
+    "Name": "Thomsen-Marr, Ashlin R",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 761412,
+    "Name": "Tindall, Shadow L",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 798673,
+    "Name": "Vallecios Zuniga, Jose A",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 711361,
+    "Name": "Van Hoomissen, Gracie F",
+    "Grade": 12,
+    "MyAttendance": "60.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 642370,
+    "Name": "Vandenberg, Jagan",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 602610,
+    "Name": "Vandiver, Coen D",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 474508,
+    "Name": "Vaughn, Harrison E",
+    "Grade": 12,
+    "MyAttendance": "40.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 784422,
+    "Name": "Visconsi, Ava D",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 622926,
+    "Name": "Wayland, Jackson C",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 760574,
+    "Name": "Weaver, Rae N",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 617152,
+    "Name": "Whiteford-Woods, Audrey N",
+    "Grade": 12,
+    "MyAttendance": "70.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 684808,
+    "Name": "Wolin, Alex J",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 599389,
+    "Name": "Yamamoto, Michelle N",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 673617,
+    "Name": "Zhou, Ailin",
+    "Grade": 12,
+    "MyAttendance": "80.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  },
+  {
+    "StudentID": 767125,
+    "Name": "Zhou, Maggie",
+    "Grade": 12,
+    "MyAttendance": "90.0%",
+    "AverageAttendanceformyGrade": "93.5%",
+    "AverageAttendanceforaLincolnStudent": "96.2%"
+  }
+]
