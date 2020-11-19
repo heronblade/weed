@@ -70,7 +70,6 @@
 
 <script>
 import BarChart from '@/components/BarChart';
-import book from '@/static/book.json';
 
 export default {
   name: 'HomePage',
@@ -79,24 +78,9 @@ export default {
   },
   data() {
     return {
-      book,
       loaded: false,
       open: true,
       uploadedFile: [],
-      data: [
-        'Angular',
-        'Angular 2',
-        'Aurelia',
-        'Backbone',
-        'Ember',
-        'jQuery',
-        'Meteor',
-        'Node.js',
-        'Polymer',
-        'React',
-        'RxJS',
-        'Vue.js',
-      ],
       name: '',
       selected: null,
     };
