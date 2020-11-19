@@ -1,5 +1,6 @@
 <template>
   <section class="section">
+    <div id="top"></div>
     <div class="columns is-mobile">
       <b-collapse
         class="card file-picker"
@@ -29,10 +30,40 @@
         </div>
       </b-collapse>
     </div>
+    <section v-if="loaded">
+      <p class="content"><b>Selected:</b> {{ selected }}</p>
+      <b-field label="Find a Student">
+        <b-autocomplete
+          v-model="name"
+          rounded
+          field="Name"
+          :data="filteredDataArray"
+          placeholder="e.g. Jimmy Bob"
+          icon="magnify"
+          clearable
+          @select="handleSelect"
+        >
+          <template slot="empty">No results found</template>
+        </b-autocomplete>
+      </b-field>
+    </section>
     <div class="columns is-mobile chart-wrapper">
-      <div v-for="item in uploadedFile" :key="item.StudentID" class="chart">
+      <div
+        v-for="item in uploadedFile"
+        :key="item.StudentID"
+        :class="`chart ${item.StudentID}`"
+      >
         <BarChart :data="item"></BarChart>
       </div>
+    </div>
+    <div class="back-to-top-wrapper">
+      <button
+        class="back-to-top-link"
+        aria-label="Scroll to Top"
+        @click="handleBackToTop"
+      >
+        🔝
+      </button>
     </div>
   </section>
 </template>
@@ -52,9 +83,42 @@ export default {
       loaded: false,
       open: true,
       uploadedFile: [],
+      data: [
+        'Angular',
+        'Angular 2',
+        'Aurelia',
+        'Backbone',
+        'Ember',
+        'jQuery',
+        'Meteor',
+        'Node.js',
+        'Polymer',
+        'React',
+        'RxJS',
+        'Vue.js',
+      ],
+      name: '',
+      selected: null,
     };
   },
+  computed: {
+    filteredDataArray() {
+      return this.uploadedFile.filter((option) => {
+        return option.Name.toString()
+          .toLowerCase()
+          .includes(this.name.toLowerCase());
+      });
+    },
+  },
   methods: {
+    handleBackToTop() {
+      const top = document.getElementById('top');
+      top.scrollIntoView({
+        behavior: 'smooth',
+        block: 'end',
+        inline: 'nearest',
+      });
+    },
     handleDrop(event) {
       const that = this;
       event.stopPropagation();
@@ -69,11 +133,21 @@ export default {
       reader.onloadend = () => {
         this.$nuxt.$loading.finish();
         this.open = false;
+        this.loaded = true;
       };
       reader.onload = (e) => {
         that.uploadedFile = JSON.parse(e.target.result);
       };
       reader.readAsText(file);
+    },
+    handleSelect(option) {
+      this.selected = option.Name;
+      const elmnt = document.getElementsByClassName(`${option.StudentID}`)[0];
+      elmnt.scrollIntoView({
+        behavior: 'smooth',
+        block: 'end',
+        inline: 'nearest',
+      });
     },
   },
 };
